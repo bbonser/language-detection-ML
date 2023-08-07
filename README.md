@@ -1,1 +1,1 @@
-# language-detection-ML
+# ML model with FastAPI, Docker, and Heroku
